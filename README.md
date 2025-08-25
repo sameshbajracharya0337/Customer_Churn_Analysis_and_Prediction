@@ -75,4 +75,7 @@ jupyter notebook customer-churn-analysis-and-prediction.ipynb
 
 3. Example output: Confusion matrix, classification report, and recommendations for churn prevention.
 
+## Contributing
+Feel free to fork and submit pull requests. Issues are welcome!
+
 
